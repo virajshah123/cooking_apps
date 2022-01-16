@@ -1,6 +1,5 @@
 # cooking_apps
  Cooking App made using flutter framework. This template app contains recipes from which users can cook different sorts of cuisines.
- 
 <img src="https://user-images.githubusercontent.com/60326736/149673654-a133d363-241e-4dcb-a55a-afd975ce636f.png" alt="Screenshot_1642354842" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/60326736/149673661-aff9b48c-176c-4f06-9787-421ca5c85427.png" alt="Screenshot_1642354842" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/60326736/149673667-3dd65745-fef9-4bed-b80e-ff3393bd3744.png" alt="Screenshot_1642354842" width="300" height="600">
